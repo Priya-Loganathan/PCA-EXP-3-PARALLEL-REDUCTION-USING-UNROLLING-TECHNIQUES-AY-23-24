@@ -1,9 +1,9 @@
 # PCA-EXP-3-PARALLEL-REDUCTION-USING-UNROLLING-TECHNIQUES AY 23-24
 
-## NAME: DELLI PRIYA L
-## REGISTER NO: 212222230029
-## EX. NO: 3
-## DATE: 05/10/2024
+### NAME: DELLI PRIYA L
+### REGISTER NO: 212222230029
+### EX. NO: 3
+### DATE : 
 
 # PARALLEL REDUCTION USING UNROLLING TECHNIQUES 
 Refer to the kernel reduceUnrolling8 and implement the kernel reduceUnrolling16, in which each thread handles 16 data blocks. Compare kernel performance with reduceUnrolling8 and use the proper metrics and events with nvprof to explain any difference in performance.</h3>
